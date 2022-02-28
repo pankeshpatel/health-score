@@ -1,0 +1,7 @@
+Flask
+flask_restful
+typing
+pandas
+datetime
+openpyxl
+python-math

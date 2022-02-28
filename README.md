@@ -1,5 +1,5 @@
 
-how to run heath server
+# how to run heath server
 
 ```
 docker build -t healthserver .
